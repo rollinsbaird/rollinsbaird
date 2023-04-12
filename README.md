@@ -9,6 +9,6 @@
 - 💬 Ask me about public transportation
 - ⚡ Fun fact: My first programing language was C!
 
-## 📫 How to reach me: ...
+## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/rollinsbaird/)
 - [Mastodon](https://mastodon.social/@rollins)
