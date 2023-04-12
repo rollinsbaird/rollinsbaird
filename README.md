@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on finishing my MBA
-- 🌱 I’m currently learning React with a course from @joshuacomeau and Rive
+- 🌱 I’m currently polishing up my React skills with a course from [@joshuacomeau](https://github.com/joshwcomeau) and learning Rive animations
 - 💬 Ask me about public transportation
 - ⚡ Fun fact: My first programing language was C!
 
